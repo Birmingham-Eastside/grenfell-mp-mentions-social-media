@@ -2,7 +2,7 @@
 Every MP tweet and Facebook update about Grenfell during one year
 http://birminghameastside.com/2018/06/14/grenfell-mp-mentions-social-media/
 
-Coinciding with the one year anniversary of the Grenfell Tower fire on 14 June, a href="http://birminghameastside.com/2018/06/14/grenfell-mp-mentions-social-media/">Birmingham Eastside</a> decided to find out which MPs have continued to talk about the topic throughout the past 12 months on Twitter and Facebook. 
+Coinciding with the one year anniversary of the Grenfell Tower fire on 14 June, <a href="http://birminghameastside.com/2018/06/14/grenfell-mp-mentions-social-media/">Birmingham Eastside</a> decided to find out which MPs have continued to talk about the topic throughout the past 12 months on Twitter and Facebook. 
 
 # Get the data
 The data was collated with <a href="http://www.crowdtangle.com/">Crowdtangle</a> and inluded all the tweets and Facebook updates made by MPs between June 2017 and June 2018 mentioning "Grenfell" in their messages or linked content. 
